@@ -1,0 +1,29 @@
+.App{
+    text-align: center;
+}
+
+
+.babyName {
+    border: 1px solid midnightblue;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 2px;
+  }
+
+  .m {
+    background: mediumpurple;
+    
+    color: darkblue;
+  }
+  .f {
+    
+    background: crimson;
+    color: darkblue
+  }
+
+  .babyNameList{
+      display:flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+
+  }
